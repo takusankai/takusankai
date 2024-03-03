@@ -6,5 +6,3 @@
 
 # 学習中(予定)の技術一覧
 <img src="https://skillicons.dev/icons?i=typescript,vue,jquery,go,rust,laravel,rails,firebase,mysql,gitlab,kubernetes"/><br/><br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=takusankai&show_icons=true&locale=en&layout=compact)
